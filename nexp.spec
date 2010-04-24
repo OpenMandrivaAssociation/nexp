@@ -1,4 +1,4 @@
-Name:          nexp
+Name:          nexp 
 Version:       0.2
 Release:       %mkrel 1
 Summary:       Tool for browsing and monitoring KDE Nepomuk database
