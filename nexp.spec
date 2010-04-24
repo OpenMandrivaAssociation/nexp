@@ -6,6 +6,7 @@ Group:         Graphical desktop/KDE
 License:       GPLv3
 Url:           http://gitorious.org/nexp/nexp-git 
 Source:        122981-%name-%version.tar.gz
+BuildRequires: kde4-macros
 Requires:      python-qt4
 BuildRoot:     %{_tmppath}/%{name}-%{version}-%{release}-root
 BuildArch:     noarch
