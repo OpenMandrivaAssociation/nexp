@@ -3,7 +3,7 @@ Version:       0.2
 Release:       %mkrel 1
 Summary:       Tool for browsing and monitoring KDE Nepomuk database
 Group:         Graphical desktop/KDE
-License:       GPLv2+
+License:       GPLv3
 Url:           http://gitorious.org/nexp/nexp-git 
 Source:        122981-%name-%version.tar.gz
 Requires:      python-qt4
