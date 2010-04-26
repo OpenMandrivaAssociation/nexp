@@ -18,7 +18,7 @@ A tool for browsing and monitoring KDE Nepomuk database.
 %files 
 %defattr(-,root,root)
 %_kde_bindir/%name
-%_kde_datadir/%name
+%attr(755,root,root) %_kde_datadir/%name
 
 #--------------------------------------------------------------------
 
