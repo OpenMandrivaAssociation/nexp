@@ -40,3 +40,23 @@ popd
 
 %clean
 rm -rf %{buildroot}
+
+
+%changelog
+* Mon Dec 06 2010 Oden Eriksson <oeriksson@mandriva.com> 0.2-2mdv2011.0
++ Revision: 613039
+- the mass rebuild of 2010.1 packages
+
+* Mon Apr 26 2010 Nicolas Lécureuil <nlecureuil@mandriva.com> 0.2-1mdv2010.1
++ Revision: 538873
+- Fix perms
+  CCBUG: 58898
+- Add kde4-macros as BuildRequires:
+  CCBUG: 58898
+- Fix spec file
+  CCBUG: 58898
+- Fix licence
+  CCBUG:58898
+- import nexp
+
+
