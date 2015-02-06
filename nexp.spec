@@ -1,6 +1,6 @@
 Name:          nexp 
 Version:       0.2
-Release:       %mkrel 2
+Release:       3
 Summary:       Tool for browsing and monitoring KDE Nepomuk database
 Group:         Graphical desktop/KDE
 License:       GPLv3
